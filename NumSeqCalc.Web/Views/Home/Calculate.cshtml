@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Number Sequence Calculator - Calculate";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<div ng-app="formInput">
+    <div ng-controller="HomeController">
+        <form class="submitForm">
+            <div class="form-group">
+                Input Number: <input type="number" name="inputNumber" class="form-control" ng-model="postData.number" required><br />
+                <span class="error" ng-show="submitForm.inputNumber.$error.required">
+                    Please input a number!
+                </span><br />
+                <span class="error" ng-show="submitForm.inputNumber.$error.number">
+                    Please enter a valid number!
+                </span><br />
+                <!--<button class="btn" ng-click="reset()">RESET</button>-->
+                <button class="btn" ng-click="display(postData)">DISPLAY</button>
+            </div>
+        </form>
+        <!-- Test Code -->
+        <!--
+        <pre>form = {{postData | json}}</pre>
+        <pre>master = {{master | json}}</pre>
+        -->
+        <table class="table table-striped">
+            <tr ng-repeat="item in master">
+                <td>
+                    <strong>{{item.description}}</strong> <br />
+                    {{item.numberList}}
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<script src="~/Scripts/numseqcalc-calculate.js"></script>

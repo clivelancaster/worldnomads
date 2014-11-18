@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumSeqCalc.Web", "NumSeqCalc.Web\NumSeqCalc.Web.csproj", "{FA038898-EEE6-4E08-B938-985FA68A1824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumSeqCalc.Tests", "NumSeqCalc.Tests\NumSeqCalc.Tests.csproj", "{689D229E-F847-4A90-8515-D0076D0F52EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumSeqCalc.Business", "NumSeqCalc.Business\NumSeqCalc.Business.csproj", "{BD73287F-F087-47FE-A216-622A19EA0354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumSeqCalc.Entities", "NumSeqCalc.Entities\NumSeqCalc.Entities.csproj", "{980DA682-6EC4-45E5-99D9-7C1647229B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumSeqCalc.Service", "NumSeqCalc.Service\NumSeqCalc.Service.csproj", "{864FABD8-5E3E-4148-95C7-4C4A0B586140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumSeqCalc.Models", "NumSeqCalc.Models\NumSeqCalc.Models.csproj", "{49B43B15-EB2F-466D-A42F-0EE32FDFDBDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA038898-EEE6-4E08-B938-985FA68A1824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA038898-EEE6-4E08-B938-985FA68A1824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA038898-EEE6-4E08-B938-985FA68A1824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA038898-EEE6-4E08-B938-985FA68A1824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689D229E-F847-4A90-8515-D0076D0F52EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689D229E-F847-4A90-8515-D0076D0F52EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689D229E-F847-4A90-8515-D0076D0F52EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689D229E-F847-4A90-8515-D0076D0F52EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD73287F-F087-47FE-A216-622A19EA0354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD73287F-F087-47FE-A216-622A19EA0354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD73287F-F087-47FE-A216-622A19EA0354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD73287F-F087-47FE-A216-622A19EA0354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980DA682-6EC4-45E5-99D9-7C1647229B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980DA682-6EC4-45E5-99D9-7C1647229B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980DA682-6EC4-45E5-99D9-7C1647229B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980DA682-6EC4-45E5-99D9-7C1647229B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864FABD8-5E3E-4148-95C7-4C4A0B586140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864FABD8-5E3E-4148-95C7-4C4A0B586140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864FABD8-5E3E-4148-95C7-4C4A0B586140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864FABD8-5E3E-4148-95C7-4C4A0B586140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B43B15-EB2F-466D-A42F-0EE32FDFDBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B43B15-EB2F-466D-A42F-0EE32FDFDBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B43B15-EB2F-466D-A42F-0EE32FDFDBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B43B15-EB2F-466D-A42F-0EE32FDFDBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
