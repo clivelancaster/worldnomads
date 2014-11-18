@@ -1,0 +1,14 @@
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\obj\Debug\NumSeqCalc.Service.csprojResolveAssemblyReference.cache
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\bin\Debug\AutoMapper.Net4.dll
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\bin\Debug\NumSeqCalc.Service.dll
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\bin\Debug\NumSeqCalc.Service.pdb
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\bin\Debug\AutoMapper.dll
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\bin\Debug\NumSeqCalc.Business.dll
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\bin\Debug\NumSeqCalc.Entities.dll
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\bin\Debug\NumSeqCalc.Models.dll
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\bin\Debug\NumSeqCalc.Business.pdb
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\bin\Debug\NumSeqCalc.Entities.pdb
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\bin\Debug\NumSeqCalc.Models.pdb
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\bin\Debug\AutoMapper.xml
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\obj\Debug\NumSeqCalc.Service.dll
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Service\obj\Debug\NumSeqCalc.Service.pdb

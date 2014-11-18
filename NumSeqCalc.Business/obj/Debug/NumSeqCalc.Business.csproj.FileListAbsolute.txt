@@ -1,0 +1,7 @@
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Business\bin\Debug\NumSeqCalc.Business.dll
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Business\bin\Debug\NumSeqCalc.Business.pdb
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Business\obj\Debug\NumSeqCalc.Business.dll
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Business\obj\Debug\NumSeqCalc.Business.pdb
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Business\bin\Debug\NumSeqCalc.Entities.dll
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Business\bin\Debug\NumSeqCalc.Entities.pdb
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Business\obj\Debug\NumSeqCalc.Business.csprojResolveAssemblyReference.cache

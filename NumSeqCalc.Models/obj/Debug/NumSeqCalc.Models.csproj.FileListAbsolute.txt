@@ -1,0 +1,5 @@
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Models\bin\Debug\NumSeqCalc.Models.dll
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Models\bin\Debug\NumSeqCalc.Models.pdb
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Models\obj\Debug\NumSeqCalc.Models.dll
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Models\obj\Debug\NumSeqCalc.Models.pdb
+c:\users\clive\documents\visual studio 2013\Projects\NumSeqCalc\NumSeqCalc.Models\obj\Debug\NumSeqCalc.Models.csprojResolveAssemblyReference.cache
