@@ -158,6 +158,8 @@ namespace NumSeqCalc.Business
                 sum = num1 + num2;
                 num1 = num2;
                 num2 = sum;
+                // Fix for fibonacci greater than lenth set
+                if(num2 <= len)
                 resultList.Add(num2.ToString());
             }
             return resultList;
